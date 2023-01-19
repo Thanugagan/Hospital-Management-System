@@ -10,7 +10,7 @@ public class Createtest1 {
 		String USERNAME=System.getProperty("username");
 		String PASSWORD=System.getProperty("password");
 		
-		
+		System.out.println("hi");
 		System.out.println(Browser);
 		System.out.println(URL);
 		System.out.println(USERNAME);
