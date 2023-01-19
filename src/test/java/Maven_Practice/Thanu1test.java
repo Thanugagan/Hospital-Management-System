@@ -6,5 +6,11 @@ public class Thanu1test {
 @Test
 public void sample1() {
 	System.out.println("hai");
+	
+	
+	
+	
+	
+	
 }
 }
